@@ -6,7 +6,7 @@ My solution was to write a program that is started via Steam, and then in turn s
 
 # How to set up the Cities Skylines Starter
 
-1. Download the program from here: INSERT LINK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+1. Download the program from here (or just find the ZIP file in the repo): https://github.com/MondQ/CitiesSkylinesStarter/blob/master/CitiesSkylinesStarter.zip
 2. Place the folder containing CitiesSkylinesStarter on the computer you will be streaming Cities Skylines from
 3. Open Steam
 4. Click "Add a game"
@@ -29,6 +29,7 @@ My solution was to write a program that is started via Steam, and then in turn s
   7.Stream CitiesSkylinesStarter to another device
   
   Example launch options: 1920 1080 "C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines" 10 0
+  
   
   Credit for WindowsInput/InputSimulator goes to Michael Noonan
 
