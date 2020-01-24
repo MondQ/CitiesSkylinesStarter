@@ -2,7 +2,8 @@
 
 After Paradox released an update to Cities Skylines in January 2020 and added a launcher I was unable to use Remote Play (In-home streaming) to play the game. All I would see is a black screen.
 
-My solution was to write a program that is started via Steam, and then in turn starts Cities Skylines.
+My solution was to write a program that is started via Steam, and then in turn starts Cities Skylines by clicking on the 'Play' button.
+Just follow the instructions below to make sure the program clicks in the correct place.
 
 # How to set up the Cities Skylines Starter
 
