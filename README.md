@@ -15,7 +15,7 @@ Just follow the instructions below to make sure the program clicks in the correc
 6. Click "Browse..."
 7. Select CitiesSkylinesStart.exe
 8. Find CitiesSkylinesStart, right click it, click "Properties", click "Set launch options"
-6. This is important!: You will need to set 3 parameters and can also set 2 optional parameters
+9. This is important!: You will need to set 3 parameters and can also set 2 optional parameters
 
   [1] Your screen's horizontal resolution e.g. 1920
   
@@ -27,7 +27,7 @@ Just follow the instructions below to make sure the program clicks in the correc
   
   [5] (Optional) Vertical offset. By default the program will click at 50% of your screen's width and 40% from the top of the screen.     This should get you pretty close to the 'Play' button by default, but if it's not quite there you can use the X and Y offset to adjust    where the click goes. You can use positive and negative numbers
   
-  7.Stream CitiesSkylinesStarter to another device
+  10. Stream CitiesSkylinesStarter to another device
   
   Example launch options: 1920 1080 "C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines" 10 0
   
