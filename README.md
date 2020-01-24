@@ -31,6 +31,8 @@ Just follow the instructions below to make sure the program clicks in the correc
   
   10. Stream CitiesSkylinesStarter to another device
   
+  PS: At some point my anti-virus software (Avira free) flagged the program as a virus, which it is not. You can check out the source     code for yourself
+  
   
   
   
