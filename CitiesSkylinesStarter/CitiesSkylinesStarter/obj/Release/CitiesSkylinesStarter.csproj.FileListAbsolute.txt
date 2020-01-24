@@ -1,0 +1,9 @@
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Release\CitiesSkylinesStarter.exe.config
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Release\CitiesSkylinesStarter.exe
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Release\CitiesSkylinesStarter.pdb
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Release\WindowsInput.dll
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Release\WindowsInput.xml
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\obj\Release\CitiesSkylinesStarter.csproj.CopyComplete
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\obj\Release\CitiesSkylinesStarter.exe
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\obj\Release\CitiesSkylinesStarter.pdb
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\obj\Release\CitiesSkylinesStarter.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\obj\Debug\CitiesSkylinesStarter.csprojAssemblyReference.cache
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Debug\CitiesSkylinesStarter.exe.config
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Debug\CitiesSkylinesStarter.exe
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Debug\CitiesSkylinesStarter.pdb
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\obj\Debug\CitiesSkylinesStarter.exe
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\obj\Debug\CitiesSkylinesStarter.pdb
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Debug\WindowsInput.dll
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\bin\Debug\WindowsInput.xml
+C:\Users\root\source\repos\CitiesSkylinesStarter\CitiesSkylinesStarter\obj\Debug\CitiesSkylinesStarter.csproj.CopyComplete
