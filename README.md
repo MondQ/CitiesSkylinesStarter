@@ -20,6 +20,11 @@ My solution was to write a program that is started via Steam, and then in turn s
   
   [2] Your screen's vertical resolution e.g. 1080
   
-  [3] The path to Cities.exe e.g. C:\Steam\steamapps\common\Cities_Skylines
-  [4] (Optional) Horizontal offset
-  [5] (Optional) Vertical offset
+  [3] The path to Cities.exe e.g. C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities.exe
+  
+  [4] (Optional) Horizontal offset. By default the program will click at 50% of your screen's width and 40% from the top of the screen.     This should get you pretty close to the 'Play' button by default, but if it's not quite there you can use the X and Y offset to adjust      where the click goes. You can use positive and negative numbers
+  
+  [5] (Optional) Vertical offset. By default the program will click at 50% of your screen's width and 40% from the top of the screen.       This should get you pretty close to the 'Play' button by default, but if it's not quite there you can use the X and Y offset to adjust     where the click goes. You can use positive and negative numbers
+  
+  Example launch options: 1920 1080 "C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines" 10 0
+
